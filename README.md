@@ -19,6 +19,7 @@ python decrypt.py <cheie> <output> <input_recuperat file>
 ```
 
 Proiect realizat de:
+
 [Rosu Vlad-Andrei](github.com/vlandero), 151
 
 [Benescu Ioan](https://github.com/BetJohn), 151
