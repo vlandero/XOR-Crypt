@@ -9,13 +9,13 @@ Am intampinat cateva probleme la decriptarea fisierului binar, nu toate caracter
 Comenzile de rulare ale programului sunt:
 
 ```
-python encrypt.py <cheie> input.txt output
+python encrypt.py <cheie> <input file> <output file>
 ```
 
 si
 
 ```
-python decrypt.py <cheie> output input_recuperat.txt
+python decrypt.py <cheie> <output> <input_recuperat file>
 ```
 
 Proiect realizat de:
