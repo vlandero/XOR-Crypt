@@ -24,4 +24,4 @@ Proiect realizat de:
 
 [Benescu Ioan](https://github.com/BetJohn), 151
 
-[Gheorge Radu-Mihai](https://github.com/radugheo), 151
+[Gheorghe Radu-Mihai](https://github.com/radugheo), 151
