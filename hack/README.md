@@ -22,4 +22,4 @@ Pentru o lungime `n` a cheii cu care a fost criptat textul, programul creează u
 
 Cu `hack.py` am testat să vedem dacă obținem textul decriptat corect cu cheia găsită.
 
-Cheia echipei adverse este **EllaElias151**, se află în `decrypted.txt`.
+Cheia echipei adverse, Girafele, este **EllaElias151**, se află în `decrypted.txt`.

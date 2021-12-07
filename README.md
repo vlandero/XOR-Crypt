@@ -1,10 +1,10 @@
 # Criptare XOR ASC 0x00 UB
 
-Programul realizeaza criptare/decriptare XOR, cheia permutandu-se circular de fiecare daca cand se termina de xorat toate caracterele acesteia.
+Programul realizează criptare/decriptare XOR, cheia permutându-se circular de fiecare dată când se termina de xorat toate caracterele acesteia.
 
-Textul criptat este luat din "Enigma Otiliei", de George Calinescu.
+Textul criptat este luat din "Enigma Otiliei", de George Călinescu.
 
-Am intampinat cateva probleme la decriptarea fisierului binar, nu toate caracterele erau decriptate corect, insa folosind documentatia, am reusit sa scriem corect fisierul binar, transformand caracterele in bytes.
+Am întampinat câteva probleme la decriptarea fișierului binar, nu toate caracterele erau decriptate corect, insa folosind documentația, am reușit să scriem corect fisierul binar, transformând caracterele în bytes.
 
 Comenzile de rulare ale programului sunt:
 
