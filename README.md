@@ -18,6 +18,8 @@ si
 python decrypt.py <cheie> <output> <input_recuperat file>
 ```
 
+În folderul `hack` se află soluțiile de spargere a parolei.
+
 Proiect realizat de:
 
 [Rosu Vlad-Andrei](github.com/vlandero), 151
