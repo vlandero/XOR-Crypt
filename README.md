@@ -2,6 +2,8 @@
 
 Programul realizează criptare/decriptare XOR, cheia permutându-se circular de fiecare dată când se termina de xorat toate caracterele acesteia.
 
+Cerința: https://cs.unibuc.ro/~crusu/asc/Arhitectura%20Sistemelor%20de%20Calcul%20(ASC)%20-%20Proiect%200x00.pdf
+
 Textul criptat este luat din "Enigma Otiliei", de George Călinescu.
 
 Am întampinat câteva probleme la decriptarea fișierului binar, nu toate caracterele erau decriptate corect, insa folosind documentația, am reușit să scriem corect fisierul binar, transformând caracterele în bytes.
